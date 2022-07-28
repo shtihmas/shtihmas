@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @shtihmas
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 web3 is here! 
+- 📫 Interacted with projects: Keep Network; The graph; Covalent; Goldfinch; Moonbeam; Moonriever; Joystream; Axelar; Massa; Iron Fish; Subspace; Aleo; SSV; Subspace; Umee; HydraDX; Manta Network; Vega; Radicle; Connext; Aptos; Archway; ZkSync; StarkNet; KYVE; Sui; Subquery... who next??
 
 <!---
-shtihmas/shtihmas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+I try to contribute to the development of WEB3 at a very early stage 8)
 --->
